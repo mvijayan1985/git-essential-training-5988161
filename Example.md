@@ -1,3 +1,3 @@
 This is a sample file
 
-With extra line
+With extra line again
